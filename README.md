@@ -18,7 +18,7 @@ In this recommendation system time stamp is not used to fit the data to algo wit
 Algorithm SVD was used from scikit surprise. Fit time in this algorithm is around 90m for first 24M user rating data, here 24M users only due to instance limitation.
 
 # Predictions
-User Defined Function to predict recommendation for user by entering user id, returns list of all titles sort by descending order for estimated rating for user on each movie.
+User Defined Function to predict recommendation for user by entering user id, returns list of all titles sort by descending order for estimated rating by user on each movie.
 
 # Reference
 1. Adopted method from most upvoted kernel for this dataset on kaggle, and made change in preprocessing for short route. Less popular movie and less active user threshold to give more high quality recommendations to users.
