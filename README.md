@@ -25,5 +25,5 @@ User Defined Function to predict recommendation for user by entering user id, re
 # Reference
 1. Adopted a method from the most upvoted notebook for this dataset on kaggle, and I made changes in preprocessing for the shortest route. I changed less popular movies and less active user threshold to give more high quality recommendations to users within less computing power.
 https://www.kaggle.com/laowingkin/netflix-movie-recommendation
-2. It is the second most upvoted kaggle notebook on this dataset with Extensive EDA, referred for EDA if needed.
+2. It is the second most upvoted kaggle notebook on this dataset with Extensive EDA, referred for EDA where needed.
 https://www.kaggle.com/morrisb/how-to-recommend-anything-deep-recommender
