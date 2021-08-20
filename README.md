@@ -20,4 +20,5 @@ Algorithm SVD was used from scikit surprise. Fit time in this algorithm is aroun
 
 # Predictions
 User Defined Function to predict recommendation for user by entering user id, returns list of all titles sort by descending order for estimated rating by user on each movie.
+
 ![Recommendation to user](https://user-images.githubusercontent.com/75474944/117961104-5c6cab00-b33b-11eb-94d8-8fbf10b3dbe3.PNG)
